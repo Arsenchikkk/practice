@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lionel Messi - The Football Legend</title>
+    <!-- Link to Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+
+    <!-- Main Header -->
+    <h1>Lionel Messi</h1>
+
+    <!-- About Messi Section -->
+    <h2>About Messi</h2>
+    <p>Lionel Messi is an Argentinian football player widely regarded as one of the greatest of all time. He has won numerous awards, including 7 Ballon d'Or titles. Known for his agility, dribbling skills, and playmaking abilities, Messi has dazzled football fans worldwide for nearly two decades.</p>
+
+    <!-- Achievements Section -->
+    <h3>Notable Achievements</h3>
+    <ul>
+        <li>7-time Ballon d'Or winner</li>
+        <li>FIFA World Cup winner in 2022</li>
+        <li>Most goals for a single club (Barcelona)</li>
+        <li>4-time UEFA Champions League winner</li>
+    </ul>
+
+    <!-- Playing Style Section -->
+    <h3>Playing Style</h3>
+    <p>Messi is known for his incredible balance, control, and vision on the field. His low center of gravity allows him to make sharp turns and slip past defenders. Messi's creativity, coupled with his ability to score from virtually anywhere, makes him a complete forward.</p>
+
+    <!-- Career Statistics Table -->
+    <h3>Career Statistics</h3>
+    <table border="1">
+        <tr>
+            <th>Season</th>
+            <th>Club</th>
+            <th>Goals</th>
+        </tr>
+        <tr>
+            <td>2020-2021</td>
+            <td>Barcelona</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>2021-2022</td>
+            <td>PSG</td>
+            <td>21</td>
+        </tr>
+    </table>
+
+    <!-- External Link for More Information -->
+    <h3>Learn More</h3>
+    <p>For more information about Lionel Messi, visit his <a href="https://en.wikipedia.org/wiki/Lionel_Messi" target="_blank">Wikipedia page</a>.</p>
+
+</body>
+</html>
